@@ -1,6 +1,16 @@
 # Open Street Maps - additional ideas
 This repository contains some interesting and useful ideas for configurable maps. Some ideas are just interesting map applications to help understand the underlying API while some of the ideas are a logical continuation of the set of ideas I had proposed for Outreachy HOTOSM project for visualizing a configurable map
 
+Quick Links
+
+Description | Link
+:--- | :---
+Display buildings in an area in 3D | [3dbuildings.html](https://ananyaarun.github.io/OSM-5/3dbuildings.html)
+Animating a point across a map route | [animatepoint.html](https://ananyaarun.github.io/OSM-5/animatepoint.html)
+Language Selection | [changelanguage.html](https://ananyaarun.github.io/OSM-5/changelanguage.html)
+Display a polygon in map | [polygonlayer.html](https://ananyaarun.github.io/OSM-5/polygonlayer.html)
+Show or hide a layer | [showhide.html](https://ananyaarun.github.io/OSM-5/showhide.html)
+
 ## 1) 3D buildings
   Allows the user to display buildings in 3D format in a certain area of a map. Can be used to show the population density of a    particular place or region.
   
