@@ -1,7 +1,7 @@
 # Open Street Maps - additional ideas
 This repository contains some interesting and useful ideas for configurable maps. Some ideas are just interesting map applications to help understand the underlying API while some of the ideas are a logical continuation of the set of ideas I had proposed for Outreachy HOTOSM project for visualizing a configurable map
 
-Quick Links
+### Quick Links
 
 Description | Link
 :--- | :---
