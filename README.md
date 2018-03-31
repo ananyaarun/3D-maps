@@ -3,7 +3,7 @@ This repository contains some interesting and useful ideas along with a map prot
 
 ## 1) 3D buildings
   Allows the user to display buildings in 3D format in a certin area of a map.Can be used to show the population density of a    perticular place or region.
-  ![Alt text](https://github.com/ananyaarun/OSM-5/blob/master/1.png?raw=true "Optional Title")
+  ![Alt text](https://github.com/ananyaarun/OSM-5/blob/master/2.png?raw=true "Optional Title")
   
 ## 2) Animating a point
   This allows a user to animate a point to move accross the map. Can be used to trace routes from a perticular place to another and diplay them visually on a map.
