@@ -13,5 +13,5 @@ This repository contains some interesting and useful ideas along with a map prot
 ## 4) geojson polygon
    This allows to display a set of geojson points a s a polygon. Can be useful if we want to highlight a certain region on the map.
    
-## 5) Showing and Hinding layers
+## 5) Showing and Hiding layers
    This allows the user to show and hide multiple layers of a map.In the above map i have created 2 layers for example and the user can choose to display none of them,either one of them or both of them.
