@@ -2,6 +2,7 @@
 This repository contains some interesting and useful ideas for configurable maps. Some ideas are just interesting map applications to help understand the underlying API while some of the ideas are a logical continuation of the set of ideas I had proposed for Outreachy HOTOSM project for visualizing a configurable map
 
 ### Quick Links
+
 Description | Link
 :--- | :---
 Display buildings in an area in 3D | [3dbuildings.html](https://ananyaarun.github.io/OSM-5/3dbuildings.html)
