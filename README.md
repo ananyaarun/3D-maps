@@ -10,7 +10,7 @@ This repository contains some interesting and useful ideas along with a map prot
 ## 3) Changing languages in a map
    This allows the user to configure a map to the language of their choice.I have shown in the above map 4 arbitrary languages and how the user can ghange betwen them.
    
-## 4) geojson polygon
+## 4) Geojson polygon
    This allows to display a set of geojson points a s a polygon. Can be useful if we want to highlight a certain region on the map.
    
 ## 5) Showing and Hiding layers
